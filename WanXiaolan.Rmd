@@ -1,6 +1,6 @@
 ---
-author: "Firstname Lastname"
-title: "Title of your post"
+author: "Xiaolan Wan"
+title: "Roger Peng"
 layout: post
 topic: "06"
 short-topic: More on reproducibility...
